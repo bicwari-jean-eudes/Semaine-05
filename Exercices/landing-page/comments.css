@@ -1,0 +1,215 @@
+.contenaire {
+  width: 1700px;
+  height: 1080px;
+  color: white;
+
+  background: #302B2B;
+ }
+header {
+  position: absolute;
+width: 1700px;
+height: 100px;
+left: 0px;
+top: 0px;
+
+background: #121010;
+}
+
+ img.Logo {
+   position: absolute;
+   left: 150px;
+   top: 20px;
+ }
+ p {
+   position: absolute;
+   left: 230px;
+   top: 20px;
+   color: white;
+ }
+ .text4 {
+   position: absolute;
+   left: 1200px;
+   color: white;
+   top: 20px;
+ }
+ .text3 {
+   position: absolute;
+   left: 1300px;
+   color: white;
+   top: 20px
+ }
+ #auteur {
+  position: absolute;
+  width: 489px;
+  height: 49px;
+  left: 747px;
+  top: 358px;
+  border-radius: 5px;
+  color: white;
+  z-index: 999;
+
+  background: #302B2B;
+ }
+  #submit-btn{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  position: absolute;
+  width: 484px;
+  height: 52px;
+  left: 752px;
+  top: 693px;
+  border-radius: 15px;
+  color: white;
+  z-index: 999;
+
+  background: #3B62EF;
+ }
+ #comment {
+  position: absolute;
+  width: 484px;
+  height: 210px;
+  left: 752px;
+  top: 439px;
+  color: white;
+
+  background: #302B2B;
+  border-radius: 17px;
+  z-index: 999;
+ }
+ .groupComment {
+  position: absolute;
+  width: 538px;
+  height: 445px;
+  left: 725px;
+  top: 328px;
+
+  background-color: black;
+  border-radius: 16px;
+ }
+ .texto1 {
+  position: absolute;
+  width: 229px;
+  height: 42px;
+  left: 206px;
+  top: 519px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 66px;
+  line-height: 42px;
+
+  color: #FFF9F9;
+ }
+ .texto2 {
+  position: absolute;
+  width: 180px;
+  height: 34px;
+  left: 428px;
+  top: 519px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 66px;
+  line-height: 42px;
+
+  color: #ED3636;
+
+ }
+ footer {
+  position: absolute;
+ width: 1700px;
+ height: 77px;
+ left: 0px;
+ top: 1003px;
+
+ background: #141313;
+ }
+ img.Logo8 {
+   position: absolute;
+ width: 35px;
+ height: 28px;
+ left: 999px;
+ top:25px
+ }
+ img.Logo9 {
+   position: absolute;
+ width: 35px;
+ height: 28px;
+ left: 1299px;
+ top:25px
+ }
+ .twi {
+   position: absolute;
+ width: 67px;
+ height: 37px;
+ left: 1060px;
+ top: 25px;
+
+ font-family: Roboto;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 24px;
+ line-height: 28px;
+
+ color: #FFF3F3;
+
+ }
+ .fb {
+   position: absolute;
+   width: 67px;
+   height: 37px;
+   left: 1369px;
+   top: 25px;
+
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 24px;
+   line-height: 28px;
+
+   color: #FFF3F3;
+
+ }
+ .index {
+   position: absolute;
+   width: 84px;
+   height: 28px;
+   left: 325px;
+   top: 25px;
+
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 24px;
+   line-height: 28px;
+
+   color: #FFFAFA;
+
+ }
+ span {
+  position: absolute;
+width: 96px;
+height: 16px;
+left: 109px;
+top:25px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFCFC;
+
+ }
+ .div-auteur{
+  background-color: rgb(red, green, blue);
+  color:black
+}
+.div-comment{
+  background-color: black;
+  color:white;
+}
