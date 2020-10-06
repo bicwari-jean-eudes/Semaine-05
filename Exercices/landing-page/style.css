@@ -1,3 +1,4 @@
+
 .contenaire {
   position: relative;
   width: 1520px;
@@ -334,9 +335,8 @@ font-size: 24px;
 line-height: 28px;
 
 color: #FFFCFC;
-
- }
- .div-auteur{
+}
+.div-auteur{
 background-color: saddlebrown;
 color: seashell;
 }
